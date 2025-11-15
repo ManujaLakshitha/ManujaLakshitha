@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a software developer with expertise in:<br><br>✅ Languages: JavaScript, Java, PHP<br><br>✅ Frameworks: Android, React, React Native, Node.js, Arduino, Hibernate, Laravel, Bootstrap, TailwindCSS<br><br>✅ Database: MySQL, SQLite, Firebase<br><br>✅ IDE's: VS Code, Intellij Idea, Android Studio, NetBeans<br><br>✅ Tools: GIT, Postman<br><br>✅ Interests: IoT, AI, and Open Source<br><br>🤵 I’m currently working as a freelancer and available for working.<br><br>🖥 I’m currently learning: Laravel, Spring Boot, MongoDb, Firebase<br><br>👯 I’m looking to collaborate on software developers.</p>
+<p align="left">I'm a software developer with expertise in:<br><br>✅ Languages: JavaScript, Java, PHP<br><br>✅ Frameworks: Android, React, React Native, Node.js, Arduino, Hibernate, Laravel, Bootstrap, TailwindCSS<br><br>✅ Database: MySQL, SQLite, Firebase<br><br>✅ IDE's: VS Code, Intellij Idea, Android Studio, NetBeans<br><br>✅ Tools: GIT, Postman<br><br>✅ Interests: IoT, AI, and Open Source<br><br>🤵 I’m currently working as a freelancer and available for working.<br><br>🖥 I’m currently learning: Laravel, Spring Boot, MongoDb, Firebase<br><br>👯 I’m looking to collaborate on software developers.<br><br>📧 How to reach me: <span><a href="mailto:rajinda1205@gmail.com">rajinda1205@gmail.com</a></span></p>
 
 ###
 
